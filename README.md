@@ -55,3 +55,6 @@ Generic
 Debug
 * -DDISABLE_MEMPOOLING=ON : Bypass pooled memory manager
 * -DCMAKE_BUILD_TYPE=<Asan|Ubsan>: Enable the Address or Undefined Behaviour Sanitizer
+
+Quick Build & Run
+* On linux (Debian/Ubuntu/apt-based+sudo) you can just run `build-linux-debian.sh` Utility script to install all dependencies, build the game.
